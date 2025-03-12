@@ -14,6 +14,7 @@ namespace Calculator
             int b = 6;
             Console.WriteLine($"Hasil penambahan : {a} + {b} = {a + b}");
             Console.WriteLine($"Hasil Pengurangan : {a} + {b} = {a + b}");
+            Console.WriteLine("Hello");
 
         }
     }
